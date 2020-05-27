@@ -8,7 +8,9 @@ The US Bikeshare Data
 ### Description
 Describe what your project is about and what it does
 The project is aimed to analyze the user information and answer the following questions:
-
+What is the most popular station
+What is the most popular hours
+What is the longest travel time
 
 ### Files used
 Include the files used
